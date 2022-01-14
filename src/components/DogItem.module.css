@@ -1,0 +1,12 @@
+.item {
+    margin-left : 500px;
+    margin-right : 500px;
+    border : solid 1px rgb(255, 212, 156);
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.img {
+    width : 200px;
+    height : 200px;
+}
